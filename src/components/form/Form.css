@@ -1,0 +1,23 @@
+.app input{
+    margin: 2rem 0.5rem 2rem 0rem;
+    border-radius: 2rem;
+    width: 12rem;
+    height: 0rem;
+    font-size: medium;
+    padding: 1.5rem;
+    border: solid;
+    border-color: aliceblue;
+  }
+  .add__button{
+    width: 5rem;
+    padding: 1rem;
+    border-radius: 2rem;
+    background-color: rgb(19, 17, 17);
+    color: aliceblue;
+    border-color: aliceblue;
+  }
+  .add__button:hover{
+    background-color: aliceblue;
+    color: rgb(19, 17, 17);;
+  }
+  

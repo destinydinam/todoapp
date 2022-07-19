@@ -1,0 +1,24 @@
+.todo__list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    margin-right: 4rem;
+}
+.todo__name{
+    overflow-wrap: normal;
+    margin: 1rem;
+}
+
+.delete__button{
+    width: 4rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color: rgb(19, 17, 17);
+    color: aliceblue;
+    border-color: aliceblue;
+}
+.delete__button:hover{
+    background-color:rgb(206, 15, 15);
+}
