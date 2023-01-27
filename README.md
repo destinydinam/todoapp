@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-## Have a look :eyes: at the <a href="https://todoapp-75d00.web.app/" target="_blank"> deployed app</a>
+## Have a look at the <a href="https://todoapp-75d00.web.app/" target="_blank"> deployed app</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
